@@ -3,4 +3,7 @@ Based on Distributed Algorithms Simulator currently maintained by the [Distribut
 
 ![Screenshot of the Unit-Skill-Task Simulator](img/UST.png)
 
-git clone --recurse-submodules -j8 git@github.com:nio-core/nio-ust-simulation.git
+Download
+--------
+
+Clone repository with: `git clone --recurse-submodules -j8 git@github.com:nio-core/nio-ust-simulation.git`
